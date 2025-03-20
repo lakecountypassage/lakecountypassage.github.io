@@ -6,6 +6,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: "Smartphone Apps"
+permalink: /
+modified_date: 2025-03-20
 ---
 
 ## Websites
