@@ -5,8 +5,8 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-layout: home
-title: "Smartphone Apps"
+layout: page
+title: "Home"
 permalink: /
 modified_date: 2025-03-20
 ---
@@ -17,6 +17,3 @@ Lake County PASSAGE: [https://www.lakecountypassage.com/](https://www.lakecounty
 Lake County DOT: [https://www.lakecountyil.gov/4922/Division-of-Transportation](https://www.lakecountyil.gov/4922/Division-of-Transportation)
 
 Lake County, IL: [https://www.lakecountyil.gov](https://www.lakecountyil.gov)
-
-<br>
-## Posts
